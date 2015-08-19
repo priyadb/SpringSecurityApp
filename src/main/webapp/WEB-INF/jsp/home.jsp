@@ -12,7 +12,8 @@
 <body class="security-app">
 	<div class="details">
 		<h2>Spring Security for Spring MVC 4 Application Simple Example</h2>
-		<a href="#" class="button green small">Tutorial</a> <a href="#"
+		<a href="" class="http://www.programming-free.com/2015/08/spring-security-for-spring-mvc-4.htmlutton green small">Tutorial</a> 
+		<a href="https://github.com/priyadb/SpringSecurityApp/archive/master.zip"
 			class="button red small">Download</a>
 	</div>
 	<div class="lc-block">
